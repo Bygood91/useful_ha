@@ -31,7 +31,6 @@ class UsefulHaBaseSensor(SensorEntity):
             name="Useful for HA",
             manufacturer="UsefulHa",
             model="useful_ha",
-            sw_version="1.0.0",
         )
 
     async def async_added_to_hass(self):
