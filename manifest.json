@@ -1,8 +1,0 @@
-{
-  "domain": "useful_ha",
-  "name": "Useful for HA",
-  "version": "1.0.0",
-  "config_flow": true,
-  "iot_class": "local_polling",
-  "codeowners": ["bygood91"]
-}
